@@ -1,4 +1,4 @@
-# [Dorvan' Blog](https://blog.hdxsanjay.com)
+# [Dorvan's Blog](https://blog.hdxsanjay.com)
 
 ![CI](https://github.com/sanjayheaven/blog/workflows/Deploy%20Hugo%20site%20to%20Pages/badge.svg)
 ![License](https://img.shields.io/github/license/sanjayheaven/go-gin-boilerplate)
