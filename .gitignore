@@ -19,3 +19,15 @@
 
 # Go workspace file
 go.work
+
+# local config
+configs/config.yaml
+config.yaml
+tmp
+logs
+
+# publish
+public
+themes
+
+.DS_Store
