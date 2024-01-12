@@ -28,6 +28,6 @@ logs
 
 # publish
 public
-themes
+# themes/*
 
 .DS_Store
