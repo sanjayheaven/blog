@@ -105,6 +105,9 @@ params:
     - name: KoFi
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/dorvan"
+    - name: buymeacoffee
+      title: Buy me a coffee :)
+      url: "https://www.buymeacoffee.com/dorvan"
 
   editPost:
     URL: "https://github.com/sanjayheaven/blog/issues"
