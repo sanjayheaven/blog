@@ -102,7 +102,7 @@ params:
   socialIcons:
     - name: github
       title: View Source on Github
-      url: "https://github.com/sanjayheaven"
+      url: "https://github.com/sanjayheaven/blog"
     - name: X
       title: Share PaperMod on X/Twitter
       url: "https://twitter.com/dorvan1123"
