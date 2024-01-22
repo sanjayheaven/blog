@@ -9,7 +9,7 @@ tags: ["Go", "Gin", "Boilerplate"]
 
 <div>
 
-<!-- <img src="./assets/golang.png" align="right"/> -->
+<img src="/images/golang.png" align="right"/>
 
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sanjayheaven/go-gin-boilerplate)
 ![CI](https://github.com/sanjayheaven/go-gin-boilerplate/workflows/Go/badge.svg)
